@@ -74,7 +74,7 @@ app.get("/items/:gender", (req, res) => {
 
     for(const categorie in clothes[req.params.gender]) {
         for(const item of clothes[req.params.gender][categorie]) {
-            arr.push(item)
+            arr.push({...item, gender: req.params.gender, categorie: categorie})
         }
     }
 
@@ -90,8 +90,8 @@ app.get("/items/:gender/:clothe", (req, res) => {
 
     const arr = []
 
-    for(const id of categorie) {
-        arr.push(id)
+    for(const item of categorie) {
+        arr.push({...item, gender: req.params.gender, categorie: req.params.clothe})
     }
 
     return res.status(200).send(arr)
