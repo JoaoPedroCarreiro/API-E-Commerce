@@ -1,5 +1,6 @@
 const clothes = require("./clothes.json")
 const wishlist = []
+const cart = []
 
 const express = require("express")
 const cors = require("cors")
@@ -36,6 +37,25 @@ app.delete("/wishlist/:id", (req, res) => {
     return res.status(202).send(wishlist)
 })
 
+app.get("/cart", (req, res) => {
+    return res.status(200).send(cart)
+})
+
+app.post("/cart/item", (req, res) => {
+    cart.push(req.body)
+
+    return res.status(201).send(cart)
+})
+
+app.delete("/cart/:index", (req, res) => {
+    if(isNaN(Number(req.params.index))) return res.status(400).send("Id must be a number")
+    if(!cart[req.params.index]) return res.status(400).send("Cart must contains the id")
+
+    cart.splice(cart.indexOf(Number(req.params.index)), 1)
+
+    return res.status(202).send(cart)
+})
+
 app.get("/id/:id", (req, res) => {
     const { id } = req.params
 
@@ -63,6 +83,70 @@ app.get("/id/:id", (req, res) => {
     }
 
     return res.status(200).send({...state.item, gender: state.useGender, categorie: state.useCategorie})
+})
+
+app.get("/search=:search", (req, res) => {
+    const words = req.params.search.split(" ").filter((i) => i)
+
+    let gender = ""
+
+    for(const tag of words) {
+        if(Object.keys(clothes).includes(tag)) {
+            gender = tag
+            break
+        }
+    }
+
+    let categorie = ""
+
+    for(const tag of words) {
+        for(const key of Object.keys(clothes.feminine)) {
+            if(key.startsWith(tag)) {
+                categorie = key
+                break
+            }
+        }
+    }
+
+    const arrs = (() => { const arr = []; for(let i = 0; i < words.length; i++) arr.push([]); return arr })()
+    const arr = []
+
+    for(const _gender in clothes) {
+        if(gender) {
+            if(gender !== _gender) {
+                continue
+            }
+        }
+
+        for(const _categorie in clothes[_gender]) {
+            if(categorie) {
+                if(categorie !== _categorie) {
+                    continue
+                }
+            }
+
+            for(const item of clothes[_gender][_categorie]) {
+                let contain = 0
+
+                for(const tag of words) {
+                    if(item.tags.includes(tag.toLowerCase())) contain++
+                }
+
+                if(contain === 0) continue
+                arrs[contain - 1].push({ ...item, gender: _gender, categorie: _categorie })
+            }
+        }
+    }
+
+    arrs.reverse()
+
+    for(const array of arrs) {
+        for(const item of array) {
+            arr.push(item)
+        }
+    }
+
+    return res.status(200).send(arr)
 })
 
 app.get("/:gender", (req, res) => {
@@ -108,7 +192,7 @@ app.get("/:gender/:clothe/:id", (req, res) => {
             }
         }
 
-        return res.status(200).send((Object.keys(item).length === 0) ? null : item)
+        return res.status(200).send((Object.keys(item).length === 0) ? null : {...item, gender: req.params.gender, categorie: req.params.clothe })
     }
 
     return res.status(200).send(null)

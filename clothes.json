@@ -1,13 +1,17 @@
 {
     "feminine": {
-        "skirt": [
+        "skirts": [
             {
                 "id": 0,
                 "tags": [
+                    "women",
+                    "woman",
                     "beige",
                     "skirt",
+                    "skirts",
                     "with",
                     "pockets",
+                    "pocket",
                     "feminine"
                 ],
                 "images": [
@@ -22,12 +26,17 @@
             {
                 "id": 1,
                 "tags": [
+                    "women",
+                    "woman",
                     "jeans",
                     "skirt",
+                    "skirts",
                     "light",
                     "blue",
                     "gray",
-                    "feminine"
+                    "feminine",
+                    "color",
+                    "colors"
                 ],
                 "images": {
                     "light blue": [
@@ -51,9 +60,14 @@
             {
                 "id": 2,
                 "tags": [
+                    "women",
+                    "woman",
                     "simple",
                     "skirt",
+                    "skirts",
                     "monocolor",
+                    "colors",
+                    "color",
                     "black",
                     "white",
                     "pink",
@@ -86,8 +100,11 @@
             {
                 "id": 3,
                 "tags": [
+                    "women",
+                    "woman",
                     "striped",
                     "skirt",
+                    "skirts",
                     "white",
                     "feminine"
                 ],
@@ -105,10 +122,17 @@
             {
                 "id": 4,
                 "tags": [
+                    "women",
+                    "woman",
                     "heart",
                     "earrings",
+                    "earring",
                     "accessories",
-                    "feminine"
+                    "accessorie",
+                    "feminine",
+                    "black",
+                    "white",
+                    "pearl"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2021/02/05/16124962482e8cc7189a4e27ad9e6e443160ecab27.webp"
@@ -121,10 +145,16 @@
             {
                 "id": 5,
                 "tags": [
+                    "women",
+                    "woman",
                     "heart",
                     "beret",
-                    "accessories", 
-                    "feminine"
+                    "accessories",
+                    "accessorie",
+                    "feminine",
+                    "black",
+                    "hat",
+                    "hats"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2022/11/21/1669010123533fb221c4c3b7d9c196b3d1032aa2d4.webp"
@@ -137,9 +167,13 @@
             {
                 "id": 6,
                 "tags": [
+                    "women",
+                    "woman",
                     "rounded",
                     "eyeglasses",
+                    "eyeglass",
                     "accessories",
+                    "accessorie",
                     "feminine"
                 ],
                 "images": [
@@ -154,10 +188,14 @@
             {
                 "id": 7,
                 "tags": [
+                    "women",
+                    "woman",
                     "white",
                     "hair",
                     "clip",
+                    "clips",
                     "accessories",
+                    "accessorie",
                     "feminine"
                 ],
                 "images": [
@@ -172,10 +210,16 @@
             {
                 "id": 8,
                 "tags": [
+                    "women",
+                    "woman",
                     "pendant",
+                    "pendants",
                     "necklace",
+                    "necklaces",
                     "accessories",
-                    "feminine"
+                    "accessorie",
+                    "feminine",
+                    "silver"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2021/09/22/163230537561da448c5bcd20adae3187d0e0fe6b18.webp",
@@ -193,9 +237,14 @@
                 "id": 9,
                 "tags": [
                     "women",
+                    "woman",
+                    "women",
                     "clogs",
+                    "clog",
                     "shoes",
-                    "feminine"
+                    "shoe",
+                    "feminine",
+                    "black"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/4/20/4346856421_1053764/d82ca3e6-7fa7-4ac8-a12f-bfac14e5ebe2/FE5B21108886F57A823534F916B2D214.jpg",
@@ -209,9 +258,12 @@
             {
                 "id": 10,
                 "tags": [
+                    "women",
+                    "woman",
                     "black",
                     "ballet",
                     "shoes",
+                    "shoe",
                     "feminine"
                 ],
                 "images": [
@@ -227,9 +279,12 @@
                 "id": 11,
                 "tags": [
                     "women",
+                    "woman",
                     "flats",
                     "shoes",
-                    "feminine"
+                    "shoe",
+                    "feminine",
+                    "white"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/20/1525807979_1058969/BD2A3B96C353C96E93E3B964878A4590.jpg",
@@ -243,9 +298,15 @@
             {
                 "id": 12,
                 "tags": [
+                    "women",
+                    "woman",
                     "casual",
                     "shoes",
-                    "feminine"
+                    "shoe",
+                    "feminine",
+                    "pink",
+                    "star",
+                    "stars"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_spmp/2023/07/12/16891738560a93829cda0ea272c9ce158f8c52fa36_square.jpg",
@@ -260,10 +321,15 @@
             {
                 "id": 13,
                 "tags": [
+                    "women",
+                    "woman",
                     "sporty",
                     "sneakers",
+                    "sneaker",
                     "shoes",
-                    "feminine"
+                    "shoe",
+                    "feminine",
+                    "black"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2023/05/19/1684482771826a667378ea91138e42c76cb00875a9.webp",
@@ -280,9 +346,12 @@
             {
                 "id": 14,
                 "tags": [
+                    "women",
+                    "woman",
                     "cargo",
                     "black",
                     "pants",
+                    "pant",
                     "feminine"
                 ],
                 "images": [
@@ -297,11 +366,16 @@
             {
                 "id": 15,
                 "tags": [
+                    "women",
+                    "woman",
                     "pocket",
+                    "pockets",
                     "cargo",
                     "jeans",
                     "pants",
-                    "feminine"
+                    "pant",
+                    "feminine",
+                    "blue"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2023/06/15/168680721454bd434827c05f9bdb02d4b85d1f906d.webp",
@@ -315,13 +389,19 @@
             {
                 "id": 16,
                 "tags": [
+                    "women",
+                    "woman",
                     "flare",
                     "leg",
+                    "legs",
                     "pink",
                     "white",
                     "blue",
                     "pants",
-                    "feminine"
+                    "pant",
+                    "feminine",
+                    "color",
+                    "colors"
                 ],
                 "images": {
                     "pink": [
@@ -331,7 +411,7 @@
                     "white": [
                         "https://img.ltwebstatic.com/images3_pi/2023/04/07/16808579133cbb7e90e8d1706f9d83e8d1f4621277.webp",
                         "https://img.ltwebstatic.com/images3_pi/2023/04/07/16808579167f00f22ec61ecae3b8eff64ab0c2f1e0.webp"
-                    ],
+                    ],  
                     "blue": [
                         "https://img.ltwebstatic.com/images3_pi/2023/04/01/16803486017558f0aa5053cfbfc5b08ba9458dcefa.webp",
                         "https://img.ltwebstatic.com/images3_pi/2023/04/01/1680348604859276708ce22e0c3dc204372b7e6d0f.webp"
@@ -352,9 +432,13 @@
             {
                 "id": 17,
                 "tags": [
+                    "women",
+                    "woman",
                     "pink",
                     "top",
+                    "tops",
                     "shirts",
+                    "shirt",
                     "feminine"
                 ],
                 "images": [
@@ -369,10 +453,16 @@
             {
                 "id": 18,
                 "tags": [
+                    "women",
+                    "woman",
                     "whide",
                     "top",
+                    "tops",
                     "straps",
+                    "strap",
                     "shirts",
+                    "shirt",
+                    "blue",
                     "feminine"
                 ],
                 "images": [
@@ -387,6 +477,8 @@
             {
                 "id": 19,
                 "tags": [
+                    "women",
+                    "woman",
                     "tie",
                     "front",
                     "curved",
@@ -395,7 +487,10 @@
                     "blue",
                     "purple",
                     "shirts",
-                    "feminine"
+                    "shirt",
+                    "feminine",
+                    "color",
+                    "colors"
                 ],
                 "images": {
                     "blue": [
@@ -419,11 +514,15 @@
             {
                 "id": 20,
                 "tags": [
+                    "women",
+                    "woman",
                     "front",
                     "crop",
                     "tee",
                     "shirts",
-                    "feminine"
+                    "shirt",
+                    "feminine",
+                    "white"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2022/04/12/1649759423c20e512b1913e17dcfe718f170ce4386.webp",
@@ -437,9 +536,12 @@
             {
                 "id": 21,
                 "tags": [
+                    "women",
+                    "woman",
                     "crop",
                     "white",
                     "shirts",
+                    "shirt",
                     "feminine"
                 ],
                 "images": [
@@ -454,11 +556,15 @@
             {
                 "id": 22,
                 "tags": [
+                    "women",
+                    "woman",
                     "crop",
                     "contrast",
                     "crop",
                     "shirts",
-                    "feminine"
+                    "shirt",
+                    "feminine",
+                    "black"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2023/03/10/16784581337475cb70ad22700fedb9b418af2f972f.webp",
@@ -474,10 +580,14 @@
             {
                 "id": 23,
                 "tags": [
+                    "women",
+                    "woman",
                     "blue",
                     "shorts",
+                    "short",
                     "jeans",
-                    "feminine"
+                    "feminine",
+                    "blue"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/gspCenter/goodsImage/2022/12/23/5445485991_1005024/9F5F843A9BA001443CBD170F07D86F3E.jpg"
@@ -490,11 +600,15 @@
             {
                 "id": 24,
                 "tags": [
+                    "women",
+                    "woman",
                     "letter",
                     "graphic",
                     "track",
                     "shorts",
-                    "feminine"
+                    "short",
+                    "feminine",
+                    "beige"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2022/03/11/1646969343662bb3397d702fe99107a1786f9d0c8a.webp",
@@ -508,11 +622,16 @@
             {
                 "id": 25,
                 "tags": [
+                    "women",
+                    "woman",
                     "simple",
                     "shorts",
+                    "short",
                     "black",
                     "white",
-                    "feminine"
+                    "feminine",
+                    "color",
+                    "colors"
                 ],
                 "images": {
                     "black": [
@@ -536,9 +655,12 @@
             {
                 "id": 26,
                 "tags": [
+                    "women",
+                    "woman",
                     "jeans",
                     "black",
                     "shorts",
+                    "short",
                     "feminine"
                 ],
                 "images": [
@@ -556,12 +678,17 @@
             {
                 "id": 27,
                 "tags": [
+                    "men",
+                    "man",
+                    "shirt",
                     "basic",
                     "shirts",
                     "black",
                     "white",
                     "monocolor",
-                    "masculine"
+                    "masculine",
+                    "color",
+                    "colors"
                 ],
                 "images": {
                     "black": [
@@ -587,8 +714,12 @@
             {
                 "id": 28,
                 "tags": [
+                    "men",
+                    "man",
+                    "shirt",
                     "shirts",
-                    "masculine"
+                    "masculine",
+                    "black"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/17/5796856454_1059019/CD9408417C80C032C8E2E5C0525236B4.jpg",
@@ -603,10 +734,14 @@
                 "id": 29,
                 "tags": [
                     "men",
+                    "man",
+                    "shirt",
                     "floral",
                     "print",
                     "shirts",
-                    "masculine"
+                    "masculine",
+                    "black",
+                    "white"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2022/08/18/16607932509afe520216ac75b0cd1fb5275886f222.webp",
@@ -620,10 +755,14 @@
             {
                 "id": 30,
                 "tags": [
+                    "men",
+                    "man",
+                    "shirt",
                     "long",
                     "sleeve",
                     "shirts",
-                    "masculine"
+                    "masculine",
+                    "beige"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2023/04/04/16806157607fb0165371c4f630061e4b64bf17f650.webp",
@@ -639,11 +778,15 @@
             {
                 "id": 31,
                 "tags": [
+                    "men",
+                    "man",
+                    "short",
                     "bear",
                     "print",
                     "waist",
                     "shorts",
-                    "masculine"
+                    "masculine",
+                    "beige"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2022/07/26/165882211490a13bced8069baf39b0d1a38e729745.webp",
@@ -657,6 +800,9 @@
             {
                 "id": 32,
                 "tags": [
+                    "men",
+                    "man",
+                    "short",
                     "beige",
                     "cargo",
                     "shorts",
@@ -674,9 +820,13 @@
             {
                 "id": 33,
                 "tags": [
+                    "men",
+                    "man",
+                    "short",
                     "moletom",
                     "shorts",
-                    "masculine"
+                    "masculine",
+                    "gray"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/gspCenter/goodsImage/2022/12/23/7749784291_1018138/4DB32BFF4CD907C92DF80E0EBD16B665.jpg",
@@ -690,10 +840,14 @@
             {
                 "id": 34,
                 "tags": [
+                    "men",
+                    "man",
+                    "short",
                     "sport",
                     "men",
                     "shorts",
-                    "masculine"
+                    "masculine",
+                    "black"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2022/07/18/1658136967859eb22097249b585edf91116c7c0ded.webp",
@@ -708,8 +862,14 @@
                 "id": 35,
                 "tags": [
                     "men",
+                    "man",
+                    "short",
                     "shorts",
-                    "masculine"
+                    "masculine",
+                    "blue",
+                    "red",
+                    "white",
+                    "striped"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/18/3735697466_1059033/465CBFDA7394FA25D2D14DD3A6C35D18.jpg",
@@ -725,10 +885,14 @@
             {
                 "id": 36,
                 "tags": [
+                    "men",
+                    "man",
+                    "pant",
                     "cargo",
                     "jeans",
                     "pants",
-                    "masculine"
+                    "masculine",
+                    "blue"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/4/27/7296062545_1019729/3d0647ea-b72d-43c2-b607-211ce82d8b4c/F1F9A13DBEA71EA5575CA0AB142DD596.jpg"
@@ -741,6 +905,9 @@
             {
                 "id": 37,
                 "tags": [
+                    "men",
+                    "man",
+                    "pant",
                     "cargo",
                     "black",
                     "smile",
@@ -759,6 +926,9 @@
             {
                 "id": 38,
                 "tags": [
+                    "men",
+                    "man",
+                    "pant",
                     "cargo",
                     "beige",
                     "pants",
@@ -776,11 +946,16 @@
             {
                 "id": 39,
                 "tags": [
+                    "men",
+                    "man",
+                    "pant",
                     "jeans",
                     "pants",
                     "blue",
                     "black",
-                    "masculine"
+                    "masculine",
+                    "color",
+                    "colors"
                 ],
                 "images": {
                     "blue": [
@@ -805,9 +980,13 @@
                 "id": 40,
                 "tags": [
                     "men",
+                    "man",
+                    "shoe",
                     "sneakers",
+                    "sneaker",
                     "shoes",
-                    "masculine"
+                    "masculine",
+                    "black"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/5/20/1900231064_1090371/88596e17-eb19-441f-852b-8e62f7df8715/89C9DB47DCD6218269488A287481A219.jpg",
@@ -822,9 +1001,13 @@
             {
                 "id": 41,
                 "tags": [
+                    "men",
+                    "man",
+                    "shoe",
                     "dress",
                     "shoes",
-                    "masculine"
+                    "masculine",
+                    "brown"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/23/4346856421_1053764/42085395FE7A3AA60AB26B2F46A9DDD3.jpg",
@@ -838,10 +1021,14 @@
             {
                 "id": 42,
                 "tags": [
+                    "men",
+                    "man",
+                    "shoe",
                     "casual",
                     "men",
                     "shoes",
-                    "masculine"
+                    "masculine",
+                    "gray"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_spmp/2023/06/30/1688056503c9a53ab329f8fe070ae76358ef61464f_square.jpg",
@@ -855,10 +1042,15 @@
             {
                 "id": 43,
                 "tags": [
+                    "men",
+                    "man",
+                    "shoe",
                     "sport",
                     "running",
                     "shoes",
-                    "masculine"
+                    "masculine",
+                    "black",
+                    "gold"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2023/02/01/1675215846054cc67cbfeb34689489362430577207.webp",
@@ -873,10 +1065,14 @@
                 "id": 44,
                 "tags": [
                     "men",
+                    "man",
+                    "shoe",
+                    "sneaker",
                     "front",
                     "sneakers",
                     "shoes",
-                    "masculine"
+                    "masculine",
+                    "white"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2023/04/28/16826542219544938d35dc3957815f307fec3a485f.webp",
@@ -892,10 +1088,14 @@
             {
                 "id": 45,
                 "tags": [
+                    "men",
+                    "man",
+                    "accessorie",
                     "minimalist",
                     "ring",
                     "accessories",
-                    "masculine"
+                    "masculine",
+                    "silver"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_pi/2021/08/06/1628214258e56de0e832cad18fab489029e9599809.webp",
@@ -910,9 +1110,16 @@
                 "id": 46,
                 "tags": [
                     "men",
+                    "man",
+                    "accessorie",
                     "cap",
                     "accessories",
-                    "masculine"
+                    "masculine",
+                    "white",
+                    "new",
+                    "york",
+                    "city",
+                    "nyc"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/images3_spmp/2023/06/27/168782857733a3b08c1cf88e32a5ea70dc27141a11.jpg",
@@ -927,8 +1134,13 @@
                 "id": 47,
                 "tags": [
                     "men",
+                    "man",
+                    "accessorie",
                     "aviator",
                     "glasses",
+                    "glass",
+                    "eyeglass",
+                    "eyeglasses",
                     "accessories",
                     "masculine"
                 ],
@@ -944,10 +1156,15 @@
             {
                 "id": 48,
                 "tags": [
+                    "men",
+                    "man",
+                    "accessorie",
                     "chain",
                     "necklaces",
+                    "necklace",
                     "accessories",
-                    "masculine"
+                    "masculine",
+                    "silver"
                 ],
                 "images": [
                     "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/4/1/3461110401_1053400/334857AEDC512CC8292B343C10CE2CD5.jpg"
