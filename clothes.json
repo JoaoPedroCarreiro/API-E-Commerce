@@ -1,0 +1,1179 @@
+{
+    "feminine": {
+        "skirts": [
+            {
+                "id": 0,
+                "tags": [
+                    "women",
+                    "woman",
+                    "beige",
+                    "skirt",
+                    "skirts",
+                    "with",
+                    "pockets",
+                    "pocket",
+                    "feminine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2022/10/28/16669239650cdc35bfba1e719bbdac1d1ef3598f5f.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2022/10/28/1666923967de96baef63a902118c335d01cd9006f5.webp"
+                ],
+                "name": "Beige Skirt With Pockets",
+                "total-buys": 462,
+                "price": "92,75",
+                "rating": 4.2
+            },
+            {
+                "id": 1,
+                "tags": [
+                    "women",
+                    "woman",
+                    "jeans",
+                    "skirt",
+                    "skirts",
+                    "light",
+                    "blue",
+                    "gray",
+                    "feminine",
+                    "color",
+                    "colors"
+                ],
+                "images": {
+                    "light blue": [
+                        "https://img.ltwebstatic.com/images3_pi/2023/05/02/1682991340d8b13d201ad2cfb9fa0b7b1e71192726.webp",
+                        "https://img.ltwebstatic.com/images3_pi/2023/05/02/16829913437c1c1ab4ff7fa1464f7906ef93cddceb.webp"
+                    ],
+                    "gray": [
+                        "https://img.ltwebstatic.com/images3_pi/2023/06/01/16856130651d46c83d15a6878255f190280d8a2aad.webp",
+                        "https://img.ltwebstatic.com/images3_pi/2023/06/01/1685613068a4849f8f6d1fc72aba1b1d555e733309.webp"
+                    ]
+                },
+                "name": "Jeans Skirt",
+                "total-buys": 327,
+                "price": "57,00",
+                "colors": [
+                    "Light Blue",
+                    "Gray"
+                ],
+                "rating": 4.6
+            },
+            {
+                "id": 2,
+                "tags": [
+                    "women",
+                    "woman",
+                    "simple",
+                    "skirt",
+                    "skirts",
+                    "monocolor",
+                    "colors",
+                    "color",
+                    "black",
+                    "white",
+                    "pink",
+                    "feminine"
+                ],
+                "images": {
+                    "black": [
+                        "https://img.ltwebstatic.com/images3_pi/2023/06/26/1687751461e6df52b7da6acb136b7fcc2e5d055551.webp",
+                        "https://img.ltwebstatic.com/images3_pi/2023/06/26/1687751463bcfddb1cefc679bca6349ecee2443525.webp"
+                    ],
+                    "white": [
+                        "https://img.ltwebstatic.com/images3_pi/2023/05/06/16833458442514486e20ca7743b82af297307a37f6.webp",
+                        "https://img.ltwebstatic.com/images3_pi/2023/05/06/16833458466963e5797e0b0cceb74441acb14bb9fc.webp"
+                    ],
+                    "pink": [
+                        "https://img.ltwebstatic.com/images3_pi/2023/06/30/1688092289c968ee68dfba571489360fd75e02d327.webp",
+                        "https://img.ltwebstatic.com/images3_pi/2023/06/30/1688092291a789520fd1d230b47de9656df5085ec0.webp"
+                    ]
+                },
+                "name": "Simple Monocolor Skirt",
+                "total-buys": 102,
+                "price": "32,45",
+                "colors": [
+                    "Black",
+                    "White",
+                    "Pink"
+                ],
+                "rating": 4.8
+            },
+            {
+                "id": 3,
+                "tags": [
+                    "women",
+                    "woman",
+                    "striped",
+                    "skirt",
+                    "skirts",
+                    "white",
+                    "feminine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2023/06/19/168714578506d3da0236982b67344802b6138f1735.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2023/06/19/1687145787883610e8b51a880f19497e2cd99cbf19.webp"
+                ],
+                "name": "Striped Skirt",
+                "total-buys": 258,
+                "price": "60,20",
+                "rating": 4.3
+            }
+        ],
+        "accessories": [
+            {
+                "id": 4,
+                "tags": [
+                    "women",
+                    "woman",
+                    "heart",
+                    "earrings",
+                    "earring",
+                    "accessories",
+                    "accessorie",
+                    "feminine",
+                    "black",
+                    "white",
+                    "pearl"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2021/02/05/16124962482e8cc7189a4e27ad9e6e443160ecab27.webp"
+                ],
+                "name": "Heart Earrings",
+                "total-buys": 63,
+                "price": "17,20",
+                "rating": 4.7
+            },
+            {
+                "id": 5,
+                "tags": [
+                    "women",
+                    "woman",
+                    "heart",
+                    "beret",
+                    "accessories",
+                    "accessorie",
+                    "feminine",
+                    "black",
+                    "hat",
+                    "hats"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2022/11/21/1669010123533fb221c4c3b7d9c196b3d1032aa2d4.webp"
+                ],
+                "name": "Heart Beret",
+                "total-buys": 95,
+                "price": "20,55",
+                "rating": 4.9
+            },
+            {
+                "id": 6,
+                "tags": [
+                    "women",
+                    "woman",
+                    "rounded",
+                    "eyeglasses",
+                    "eyeglass",
+                    "accessories",
+                    "accessorie",
+                    "feminine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2022/03/10/1646879567399d9ca3f1ed10a838158100e64abded.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2022/03/10/1646879568b55091fe59349c7ee456a15a01650faf.webp"
+                ],
+                "name": "Rounded Eyeglasses",
+                "total-buys": 154,
+                "price": "32,40",
+                "rating": 4.5
+            },
+            {
+                "id": 7,
+                "tags": [
+                    "women",
+                    "woman",
+                    "white",
+                    "hair",
+                    "clip",
+                    "clips",
+                    "accessories",
+                    "accessorie",
+                    "feminine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2022/03/03/164627472607d744b4ca3fe1907955839fdd8e70fc.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2022/03/03/1646274728ac7efb204a639ffa817168257da7a6f4.webp"
+                ],
+                "name": "White Hair Clip",
+                "total-buys": 201,
+                "price": "6,70",
+                "rating": 4.6
+            },
+            {
+                "id": 8,
+                "tags": [
+                    "women",
+                    "woman",
+                    "pendant",
+                    "pendants",
+                    "necklace",
+                    "necklaces",
+                    "accessories",
+                    "accessorie",
+                    "feminine",
+                    "silver"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2021/09/22/163230537561da448c5bcd20adae3187d0e0fe6b18.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2021/09/22/163230538167ddf91db9fa37eb65463ba13bcd01e3.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2021/09/22/16323053772650823afcf979826379f689aad99b68.webp"
+                ],
+                "name": "Pendant Necklace",
+                "total-buys": 332,
+                "price": "12,00",
+                "rating": 4.3
+            }
+        ],
+        "shoes": [
+            {
+                "id": 9,
+                "tags": [
+                    "women",
+                    "woman",
+                    "women",
+                    "clogs",
+                    "clog",
+                    "shoes",
+                    "shoe",
+                    "feminine",
+                    "black"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/4/20/4346856421_1053764/d82ca3e6-7fa7-4ac8-a12f-bfac14e5ebe2/FE5B21108886F57A823534F916B2D214.jpg",
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/4/20/4346856421_1053764/14223ade-27ac-4323-befb-87e830b42d9b/E27EA64089A2EA083A2EBE49C1E5BE42.jpg"
+                ],
+                "name": "Women Clogs",
+                "total-buys": 408,
+                "price": "24,70",
+                "rating": 4.7
+            },
+            {
+                "id": 10,
+                "tags": [
+                    "women",
+                    "woman",
+                    "black",
+                    "ballet",
+                    "shoes",
+                    "shoe",
+                    "feminine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2020/06/11/15918749076d7c057638b399cdac1e776cca0c1a4f.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2020/06/11/1591874911ed8a18364b98cf412ae189ae2a833265.webp"
+                ],
+                "name": "Black Ballet Shoes",
+                "total-buys": 167,
+                "price": "40,65",
+                "rating": 4.2
+            },
+            {
+                "id": 11,
+                "tags": [
+                    "women",
+                    "woman",
+                    "flats",
+                    "shoes",
+                    "shoe",
+                    "feminine",
+                    "white"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/20/1525807979_1058969/BD2A3B96C353C96E93E3B964878A4590.jpg",
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/20/1525807979_1058969/CADDF29E3A5DDF81CB9F3ADAAD59EB1F.jpg"
+                ],
+                "name": "Women Flats",
+                "total-buys": 129,
+                "price": "18,45",
+                "rating": 4.7
+            },
+            {
+                "id": 12,
+                "tags": [
+                    "women",
+                    "woman",
+                    "casual",
+                    "shoes",
+                    "shoe",
+                    "feminine",
+                    "pink",
+                    "star",
+                    "stars"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_spmp/2023/07/12/16891738560a93829cda0ea272c9ce158f8c52fa36_square.jpg",
+                    "https://img.ltwebstatic.com/images3_spmp/2023/07/12/16891738569a8ab0d22f9cb77aa2ecf29cd6f9c588_square.jpg",
+                    "https://img.ltwebstatic.com/images3_spmp/2023/07/04/1688448324043af792f0566405c7641900dd1266cf_square.jpg"
+                ],
+                "name": "Casual Feminine Shoes",
+                "total-buys": 543,
+                "price": "45,70",
+                "rating": 4.9
+            },
+            {
+                "id": 13,
+                "tags": [
+                    "women",
+                    "woman",
+                    "sporty",
+                    "sneakers",
+                    "sneaker",
+                    "shoes",
+                    "shoe",
+                    "feminine",
+                    "black"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2023/05/19/1684482771826a667378ea91138e42c76cb00875a9.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2023/05/19/1684482773f148c92d349b15cc359aa253593e8086.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2023/05/19/16844827753b0bf312f7b34f04155a81d40c6a43e2.webp"
+                ],
+                "name": "Sporty Sneakers",
+                "total-buys": 156,
+                "price": "28,40",
+                "rating": 4.3
+            }
+        ],
+        "pants": [
+            {
+                "id": 14,
+                "tags": [
+                    "women",
+                    "woman",
+                    "cargo",
+                    "black",
+                    "pants",
+                    "pant",
+                    "feminine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2023/05/18/168439404667a60206f8df8e56e059b59f075574d7.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2023/05/18/1684394049f986e897a13f399104cf4ee52bd16582.webp"
+                ],
+                "name": "Black Cargo Pants",
+                "total-buys": 352,
+                "price": "14,10",
+                "rating": 4.6
+            },
+            {
+                "id": 15,
+                "tags": [
+                    "women",
+                    "woman",
+                    "pocket",
+                    "pockets",
+                    "cargo",
+                    "jeans",
+                    "pants",
+                    "pant",
+                    "feminine",
+                    "blue"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2023/06/15/168680721454bd434827c05f9bdb02d4b85d1f906d.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2023/06/15/168680721887df1f0994aaca684b93a4c1cb3d942a.webp"
+                ],
+                "name": "Pocket Cargo Jeans",
+                "total-buys": 98,
+                "price": "20,75",
+                "rating": 4.1
+            },
+            {
+                "id": 16,
+                "tags": [
+                    "women",
+                    "woman",
+                    "flare",
+                    "leg",
+                    "legs",
+                    "pink",
+                    "white",
+                    "blue",
+                    "pants",
+                    "pant",
+                    "feminine",
+                    "color",
+                    "colors"
+                ],
+                "images": {
+                    "pink": [
+                        "https://img.ltwebstatic.com/images3_pi/2023/02/22/167705809643ad175b3efcaad6558a2782b504a689.webp",
+                        "https://img.ltwebstatic.com/images3_pi/2023/02/22/16770580986789369eecee1babd17df9576af8fa65.webp"
+                    ],
+                    "white": [
+                        "https://img.ltwebstatic.com/images3_pi/2023/04/07/16808579133cbb7e90e8d1706f9d83e8d1f4621277.webp",
+                        "https://img.ltwebstatic.com/images3_pi/2023/04/07/16808579167f00f22ec61ecae3b8eff64ab0c2f1e0.webp"
+                    ],  
+                    "blue": [
+                        "https://img.ltwebstatic.com/images3_pi/2023/04/01/16803486017558f0aa5053cfbfc5b08ba9458dcefa.webp",
+                        "https://img.ltwebstatic.com/images3_pi/2023/04/01/1680348604859276708ce22e0c3dc204372b7e6d0f.webp"
+                    ]
+                },
+                "name": "Flare Leg Pants",
+                "total-buys": 432,
+                "price": "40,95",
+                "colors": [
+                    "Pink",
+                    "White",
+                    "Blue"
+                ],
+                "rating": 3.9
+            }
+        ],
+        "shirts": [
+            {
+                "id": 17,
+                "tags": [
+                    "women",
+                    "woman",
+                    "pink",
+                    "top",
+                    "tops",
+                    "shirts",
+                    "shirt",
+                    "feminine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2023/03/01/1677642423b6c3b46bba34a1eea27cfed4e6f7ad02.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2023/03/01/1677642424f18cf2a74cf8adaab432ea52753f964d.webp"
+                ],
+                "name": "Pink Top",
+                "total-buys": 124,
+                "price": "20,75",
+                "rating": 4.6
+            },
+            {
+                "id": 18,
+                "tags": [
+                    "women",
+                    "woman",
+                    "whide",
+                    "top",
+                    "tops",
+                    "straps",
+                    "strap",
+                    "shirts",
+                    "shirt",
+                    "blue",
+                    "feminine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2023/03/06/16780839752c1664696e726141c8517d895a757604.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2023/03/06/1678083977bdc11a73167bd26c3275c65c5ddc8651.webp"
+                ],
+                "name": "Wide Straps Top",
+                "total-buys": 453,
+                "price": "4,80",
+                "rating": 4.9
+            },
+            {
+                "id": 19,
+                "tags": [
+                    "women",
+                    "woman",
+                    "tie",
+                    "front",
+                    "curved",
+                    "hem",
+                    "tee",
+                    "blue",
+                    "purple",
+                    "shirts",
+                    "shirt",
+                    "feminine",
+                    "color",
+                    "colors"
+                ],
+                "images": {
+                    "blue": [
+                        "https://img.ltwebstatic.com/images3_pi/2023/06/12/1686542623ceb74fd93cdcb3c4174e4f2fb4fe0fee.webp",
+                        "https://img.ltwebstatic.com/images3_pi/2023/06/12/1686542624324488eea9a48dc16991d725a4918cf1.webp"
+                    ],
+                    "purple": [
+                        "https://img.ltwebstatic.com/images3_pi/2023/04/17/1681708870b71af94cf710cbeeb62b465f6fd4f3e2.webp",
+                        "https://img.ltwebstatic.com/images3_pi/2023/04/17/168170887265aa79f635f53dccba765d34ab0ae9d3.webp"
+                    ]
+                },
+                "name": "Tie Front Curved Hem Tee",
+                "total-buys": 173,
+                "price": "7,00",
+                "colors": [
+                    "Blue",
+                    "Purple"
+                ],
+                "rating": 4.4
+            },
+            {
+                "id": 20,
+                "tags": [
+                    "women",
+                    "woman",
+                    "front",
+                    "crop",
+                    "tee",
+                    "shirts",
+                    "shirt",
+                    "feminine",
+                    "white"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2022/04/12/1649759423c20e512b1913e17dcfe718f170ce4386.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2022/04/12/16497594248d7f9bbc07de82680b5b9c13951ed2a3.webp"
+                ],
+                "name": "Front Crop Tee",
+                "total-buys": 235,
+                "price": "7,50",
+                "rating": 4.8
+            },
+            {
+                "id": 21,
+                "tags": [
+                    "women",
+                    "woman",
+                    "crop",
+                    "white",
+                    "shirts",
+                    "shirt",
+                    "feminine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2023/02/07/1675760784bde200cd153ebb243c6a4dbe4d01a88a.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2023/02/07/167576078753582c9a1c5fe9b9cafeba2932ef7574.webp"
+                ],
+                "name": "White Crop Shirt",
+                "total-buys": 145,
+                "price": "20,50",
+                "rating": 4.9
+            },
+            {
+                "id": 22,
+                "tags": [
+                    "women",
+                    "woman",
+                    "crop",
+                    "contrast",
+                    "crop",
+                    "shirts",
+                    "shirt",
+                    "feminine",
+                    "black"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2023/03/10/16784581337475cb70ad22700fedb9b418af2f972f.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2023/03/10/1678458135a3102882b8ebd89aaaf148bbf6599a73.webp"
+                ],
+                "name": "Contrast Crop Tee",
+                "total-buys": 195,
+                "price": "15,60",
+                "rating": 4.2
+            }
+        ],
+        "shorts": [
+            {
+                "id": 23,
+                "tags": [
+                    "women",
+                    "woman",
+                    "blue",
+                    "shorts",
+                    "short",
+                    "jeans",
+                    "feminine",
+                    "blue"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2022/12/23/5445485991_1005024/9F5F843A9BA001443CBD170F07D86F3E.jpg"
+                ],
+                "name": "Blue Short Jeans",
+                "total-buys": 548,
+                "price": "12,50",
+                "rating": 4.6
+            },
+            {
+                "id": 24,
+                "tags": [
+                    "women",
+                    "woman",
+                    "letter",
+                    "graphic",
+                    "track",
+                    "shorts",
+                    "short",
+                    "feminine",
+                    "beige"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2022/03/11/1646969343662bb3397d702fe99107a1786f9d0c8a.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2022/02/21/16454090087deffdd5046ee808434f110fe3c37b17.webp"
+                ],
+                "name": "Letter Graphic Track Shorts",
+                "total-buys": 321,
+                "price": "45,90",
+                "rating": 4.4
+            },
+            {
+                "id": 25,
+                "tags": [
+                    "women",
+                    "woman",
+                    "simple",
+                    "shorts",
+                    "short",
+                    "black",
+                    "white",
+                    "feminine",
+                    "color",
+                    "colors"
+                ],
+                "images": {
+                    "black": [
+                        "https://img.ltwebstatic.com/images3_pi/2021/06/23/1624444992919b8b3137188febd79ac60eec494600.webp",
+                        "https://img.ltwebstatic.com/images3_pi/2021/06/23/162444499526a44411f63438eb2dca46309c49dc58.webp"
+                    ],
+                    "white": [
+                        "https://img.ltwebstatic.com/images3_pi/2023/05/30/168541124401423d72db07d8b1281a955488dd2a9a.webp",
+                        "https://img.ltwebstatic.com/images3_pi/2023/05/30/1685411245785b9fd1aa9cb41e96f350111fc94cba.webp"
+                    ]
+                },
+                "name": "Simple Shorts",
+                "total-buys": 127,
+                "price": "12,90",
+                "colors": [
+                    "Black",
+                    "White"
+                ],
+                "rating": 4.7
+            },
+            {
+                "id": 26,
+                "tags": [
+                    "women",
+                    "woman",
+                    "jeans",
+                    "black",
+                    "shorts",
+                    "short",
+                    "feminine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/5/3/5694040051_1023157/c827aeed-15a1-426c-a792-e2298b40732f/069DAF27B1AB454B32C0DC2852E7F6AB.jpg"
+                ],
+                "name": "Black Shorts Jeans",
+                "total-buys": 197,
+                "price": "19,40",
+                "rating": 4.9
+            }
+        ]
+    },
+    "masculine": {
+        "shirts": [
+            {
+                "id": 27,
+                "tags": [
+                    "men",
+                    "man",
+                    "shirt",
+                    "basic",
+                    "shirts",
+                    "black",
+                    "white",
+                    "monocolor",
+                    "masculine",
+                    "color",
+                    "colors"
+                ],
+                "images": {
+                    "black": [
+                        "https://img.ltwebstatic.com/images3_spmp/2023/06/27/1687810754cb8ef84fe6feb2889ff4b945ce8a9bdc_square.jpg"
+                    ],
+                    "white": [
+                        "https://img.ltwebstatic.com/images3_spmp/2023/06/27/1687810797c556e6a78b5688e5ede1349dfc6233a2_square.jpg"
+                    ],
+                    "brown": [
+                        "https://img.ltwebstatic.com/images3_spmp/2023/06/27/1687811179bc33b35953e76d6a396e070d2e128cc5_square.jpg"
+                    ]
+                },
+                "name": "Basic Monocolor Shirt",
+                "total-buys": 127,
+                "price": "5,60",
+                "colors": [
+                    "Black",
+                    "White",
+                    "Brown"
+                ],
+                "rating": 4.9
+            },
+            {
+                "id": 28,
+                "tags": [
+                    "men",
+                    "man",
+                    "shirt",
+                    "shirts",
+                    "masculine",
+                    "black"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/17/5796856454_1059019/CD9408417C80C032C8E2E5C0525236B4.jpg",
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/17/5796856454_1059019/53418EA6354F5A6E8AFF478BAE04229E.jpg"
+                ],
+                "name": "Masculine Shirts",
+                "total-buys": 541,
+                "price": "6,80",
+                "rating": 4.2
+            },
+            {
+                "id": 29,
+                "tags": [
+                    "men",
+                    "man",
+                    "shirt",
+                    "floral",
+                    "print",
+                    "shirts",
+                    "masculine",
+                    "black",
+                    "white"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2022/08/18/16607932509afe520216ac75b0cd1fb5275886f222.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2022/08/18/1660793314f24dbfbfdddb84f45053ae6440821cf7.webp"
+                ],
+                "name": "Men Floral Print Shirt",
+                "total-buys": 397,
+                "price": "12,90",
+                "rating": 4.5
+            },
+            {
+                "id": 30,
+                "tags": [
+                    "men",
+                    "man",
+                    "shirt",
+                    "long",
+                    "sleeve",
+                    "shirts",
+                    "masculine",
+                    "beige"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2023/04/04/16806157607fb0165371c4f630061e4b64bf17f650.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2023/04/04/16806157635a85b6fb6ebfdeed998fd6a51265a713.webp"
+                ],
+                "name": "Long Sleeve Shirt",
+                "total-buys": 285,
+                "price": "14,30",
+                "rating": 4.9
+            }
+        ],
+        "shorts": [
+            {
+                "id": 31,
+                "tags": [
+                    "men",
+                    "man",
+                    "short",
+                    "bear",
+                    "print",
+                    "waist",
+                    "shorts",
+                    "masculine",
+                    "beige"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2022/07/26/165882211490a13bced8069baf39b0d1a38e729745.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2022/07/26/16588221160dbba6d9d1472b1892000ca3448a7a47.webp"
+                ],
+                "name": "Bear Print Waist Shorts",
+                "total-buys": 364,
+                "price": "19,30",
+                "rating": 4.5
+            },
+            {
+                "id": 32,
+                "tags": [
+                    "men",
+                    "man",
+                    "short",
+                    "beige",
+                    "cargo",
+                    "shorts",
+                    "masculine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_spmp/2023/06/06/16860126823b571beb7f588f060536ce5cf5c23a45.jpg",
+                    "https://img.ltwebstatic.com/images3_spmp/2023/06/06/168601268240763647b66cc823f5b682bde193bede.jpg"
+                ],
+                "name": "Beige Shorts Cargo",
+                "total-buys": 96,
+                "price": "9,30",
+                "rating": 4.1
+            },
+            {
+                "id": 33,
+                "tags": [
+                    "men",
+                    "man",
+                    "short",
+                    "moletom",
+                    "shorts",
+                    "masculine",
+                    "gray"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2022/12/23/7749784291_1018138/4DB32BFF4CD907C92DF80E0EBD16B665.jpg",
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2022/12/23/7749784291_1018138/E79FD42721B424E2D169DBFE1DFEF5DB.jpg"
+                ],
+                "name": "Moletom Shorts",
+                "total-buys": 412,
+                "price": "20,40",
+                "rating": 4.5
+            },
+            {
+                "id": 34,
+                "tags": [
+                    "men",
+                    "man",
+                    "short",
+                    "sport",
+                    "men",
+                    "shorts",
+                    "masculine",
+                    "black"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2022/07/18/1658136967859eb22097249b585edf91116c7c0ded.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2022/07/18/1658136972d70dcfeabeda9f6e31484c6fefc54c6d.webp"
+                ],
+                "name": "Sport Men Shorts",
+                "total-buys": 241,
+                "price": "14,00",
+                "rating": 4.8
+            },
+            {
+                "id": 35,
+                "tags": [
+                    "men",
+                    "man",
+                    "short",
+                    "shorts",
+                    "masculine",
+                    "blue",
+                    "red",
+                    "white",
+                    "striped"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/18/3735697466_1059033/465CBFDA7394FA25D2D14DD3A6C35D18.jpg",
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/18/3735697466_1059033/E612BC41AC7692E73669CFD524093A19.jpg"
+                ],
+                "name": "Men Shorts",
+                "total-buys": 124,
+                "price": "18,50",
+                "rating": 4.3
+            }
+        ],
+        "pants": [
+            {
+                "id": 36,
+                "tags": [
+                    "men",
+                    "man",
+                    "pant",
+                    "cargo",
+                    "jeans",
+                    "pants",
+                    "masculine",
+                    "blue"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/4/27/7296062545_1019729/3d0647ea-b72d-43c2-b607-211ce82d8b4c/F1F9A13DBEA71EA5575CA0AB142DD596.jpg"
+                ],
+                "name": "Cargo Jeans Pants",
+                "total-buys": 304,
+                "price": "24,50",
+                "rating": 4.8
+            },
+            {
+                "id": 37,
+                "tags": [
+                    "men",
+                    "man",
+                    "pant",
+                    "cargo",
+                    "black",
+                    "smile",
+                    "pants",
+                    "masculine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2022/05/03/165156969418e4724e7d68c5bacc27f94692d593d0.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2022/05/03/16515696964c843b9074718c2936942530f2217f76.webp"
+                ],
+                "name": "Black Cargo Smile Pants",
+                "total-buys": 564,
+                "price": "36,50",
+                "rating": 4.6
+            },
+            {
+                "id": 38,
+                "tags": [
+                    "men",
+                    "man",
+                    "pant",
+                    "cargo",
+                    "beige",
+                    "pants",
+                    "masculine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_spmp/2023/06/06/168598374796833502e13d284a8546df176da2f76c.jpg",
+                    "https://img.ltwebstatic.com/images3_spmp/2023/06/06/1685983803206810b37613fd3bdb802acd1bb46f51.jpg"
+                ],
+                "name": "Beige Cargo Pants",
+                "total-buys": 235,
+                "price": "21,50",
+                "rating": 4.9
+            },
+            {
+                "id": 39,
+                "tags": [
+                    "men",
+                    "man",
+                    "pant",
+                    "jeans",
+                    "pants",
+                    "blue",
+                    "black",
+                    "masculine",
+                    "color",
+                    "colors"
+                ],
+                "images": {
+                    "blue": [
+                        "https://img.ltwebstatic.com/images3_spmp/2023/05/31/16854903053006cb175114a74c98ea226a2e974bc6.jpg"
+                    ],
+                    "black": [
+                        "https://img.ltwebstatic.com/images3_spmp/2023/05/31/1685490218866a5efdffce31a0c2f4cae51aa7ab42.jpg"
+                    ]
+                },
+                "name": "Jeans Pants",
+                "total-buys": 142,
+                "price": "18,50",
+                "colors": [
+                    "Blue",
+                    "Black"
+                ],
+                "rating": 4.5
+            }
+        ],
+        "shoes": [
+            {
+                "id": 40,
+                "tags": [
+                    "men",
+                    "man",
+                    "shoe",
+                    "sneakers",
+                    "sneaker",
+                    "shoes",
+                    "masculine",
+                    "black"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/5/20/1900231064_1090371/88596e17-eb19-441f-852b-8e62f7df8715/89C9DB47DCD6218269488A287481A219.jpg",
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/5/20/1900231064_1090371/d8d1bba2-b86a-4db3-ab34-02866224d5ae/54ED089FDB2F4936782132334354245C.jpg",
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/5/20/1900231064_1090371/d4db3a4a-9847-4dde-a178-ffe3dfd52940/3006DDA507DBD398CEE6EB31DF366F31.jpg"
+                ],
+                "name": "Men Sneakers",
+                "total-buys": 264,
+                "price": "25,80",
+                "rating": 4.1
+            },
+            {
+                "id": 41,
+                "tags": [
+                    "men",
+                    "man",
+                    "shoe",
+                    "dress",
+                    "shoes",
+                    "masculine",
+                    "brown"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/23/4346856421_1053764/42085395FE7A3AA60AB26B2F46A9DDD3.jpg",
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/3/23/4346856421_1053764/1CE9E59F00DD8A928B4773FC51462DA7.jpg"
+                ],
+                "name": "Dress Shoes",
+                "total-buys": 467,
+                "price": "12,45",
+                "rating": 4.5
+            },
+            {
+                "id": 42,
+                "tags": [
+                    "men",
+                    "man",
+                    "shoe",
+                    "casual",
+                    "men",
+                    "shoes",
+                    "masculine",
+                    "gray"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_spmp/2023/06/30/1688056503c9a53ab329f8fe070ae76358ef61464f_square.jpg",
+                    "https://img.ltwebstatic.com/images3_spmp/2023/06/30/1688056510969ac69805d4e422cd6b4865f3d5db53_square.jpg"
+                ],
+                "name": "Casual Men Shoes",
+                "total-buys": 236,
+                "price": "8,45",
+                "rating": 4.8
+            },
+            {
+                "id": 43,
+                "tags": [
+                    "men",
+                    "man",
+                    "shoe",
+                    "sport",
+                    "running",
+                    "shoes",
+                    "masculine",
+                    "black",
+                    "gold"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2023/02/01/1675215846054cc67cbfeb34689489362430577207.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2023/02/01/167521585048bd07a0715cd418bbb4830b9dafbdc6.webp"
+                ],
+                "name": "Sport Running Shoes",
+                "total-buys": 321,
+                "price": "32,80",
+                "rating": 4.9
+            },
+            {
+                "id": 44,
+                "tags": [
+                    "men",
+                    "man",
+                    "shoe",
+                    "sneaker",
+                    "front",
+                    "sneakers",
+                    "shoes",
+                    "masculine",
+                    "white"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2023/04/28/16826542219544938d35dc3957815f307fec3a485f.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2023/04/28/16826542240e71cfa33e4c5ea1cb3d71b54887d0cb.webp"
+                ],
+                "name": "Men Front Sneakers",
+                "total-buys": 259,
+                "price": "24,95",
+                "rating": 4.4
+            }
+        ],
+        "accessories": [
+            {
+                "id": 45,
+                "tags": [
+                    "men",
+                    "man",
+                    "accessorie",
+                    "minimalist",
+                    "ring",
+                    "accessories",
+                    "masculine",
+                    "silver"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_pi/2021/08/06/1628214258e56de0e832cad18fab489029e9599809.webp",
+                    "https://img.ltwebstatic.com/images3_pi/2021/08/06/1628214271104a67243e96b5a93f8cccd7b0bb94d5.webp"
+                ],
+                "name": "Minimalist Ring",
+                "total-buys": 164,
+                "price": "1,95",
+                "rating": 4.9
+            },
+            {
+                "id": 46,
+                "tags": [
+                    "men",
+                    "man",
+                    "accessorie",
+                    "cap",
+                    "accessories",
+                    "masculine",
+                    "white",
+                    "new",
+                    "york",
+                    "city",
+                    "nyc"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/images3_spmp/2023/06/27/168782857733a3b08c1cf88e32a5ea70dc27141a11.jpg",
+                    "https://img.ltwebstatic.com/images3_spmp/2023/06/27/1687828577356beefa8cab6fa2772ec2d227e99c71.jpg"
+                ],
+                "name": "Men Cap",
+                "total-buys": 98,
+                "price": "4,95",
+                "rating": 4.9
+            },
+            {
+                "id": 47,
+                "tags": [
+                    "men",
+                    "man",
+                    "accessorie",
+                    "aviator",
+                    "glasses",
+                    "glass",
+                    "eyeglass",
+                    "eyeglasses",
+                    "accessories",
+                    "masculine"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2022/11/18/3436901625_1036346/EF63D9411A89B0C9E4A14F410FDFF303.jpg",
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2022/11/18/3436901625_1036346/B3FE473814E9214712D06208C6A02DBD.jpg"
+                ],
+                "name": "Men Aviator Glasses",
+                "total-buys": 69,
+                "price": "3,45",
+                "rating": 4.6
+            },
+            {
+                "id": 48,
+                "tags": [
+                    "men",
+                    "man",
+                    "accessorie",
+                    "chain",
+                    "necklaces",
+                    "necklace",
+                    "accessories",
+                    "masculine",
+                    "silver"
+                ],
+                "images": [
+                    "https://img.ltwebstatic.com/gspCenter/goodsImage/2023/4/1/3461110401_1053400/334857AEDC512CC8292B343C10CE2CD5.jpg"
+                ],
+                "name": "Chain Necklaces",
+                "total-buys": 355,
+                "price": "1,45",
+                "rating": 4.8
+            }
+        ]
+    }
+}
