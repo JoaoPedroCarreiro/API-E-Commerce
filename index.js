@@ -16,6 +16,7 @@ app.get("/", (req, res) => {
 })
 
 app.get("/wishlist", (req, res) => {
+    console.log(wishlist)
     return res.status(200).send(wishlist)
 })
 
