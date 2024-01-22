@@ -4,6 +4,6 @@ WORKDIR /
 
 RUN npm install
 
-RUN npm run start
+RUN npm run build
 
 EXPOSE 8080
