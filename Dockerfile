@@ -3,7 +3,7 @@ FROM node:20
 WORKDIR /
 
 COPY package*.json ./
-COPY clothes.json ./
+# COPY clothes.json ./
 
 RUN npm install
 
