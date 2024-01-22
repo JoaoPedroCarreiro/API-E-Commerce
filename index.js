@@ -16,12 +16,6 @@ app.get("/", (req, res) => {
 })
 
 app.get("/wishlist", (req, res) => {
-    console.log(wishlist)
-
-    setTimeout(() => {
-        console.log(wishlist)
-    }, 1000)
-
     return res.status(200).send(wishlist)
 })
 
